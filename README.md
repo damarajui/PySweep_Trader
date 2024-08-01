@@ -1,4 +1,3 @@
-Here's a comprehensive README that describes the application's function and toolkit based on the provided codebase:
 
 # AI-Driven High-Frequency Trading System
 
