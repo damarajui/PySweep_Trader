@@ -1,0 +1,15 @@
+flask
+pandas
+scikit-learn
+torch
+transformers
+requests
+python-dotenv
+psycopg2-binary
+elasticsearch
+boto3
+google-cloud-bigquery
+alpha_vantage
+yfinance
+quandl
+prometheus_client
